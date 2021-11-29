@@ -1,3 +1,13 @@
 .header {
-  background-color: red;
+  background-image: url(../img/bg-3.jpg);
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+.heading {
+  min-height: 100vh;
+  padding-top: 120px;
+  padding-bottom: 90px;
 }
